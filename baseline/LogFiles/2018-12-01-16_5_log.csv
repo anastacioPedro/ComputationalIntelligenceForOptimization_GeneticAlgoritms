@@ -1,0 +1,13 @@
+<class 'problems.ANNOP.ANNOP'>,414331728,algorithms.genetic_algorithm,0,0.16216216216216217,0.15767634854771784,50,tournament_selection,one_point_crossover,0.8,ball_mutation,None,None,0.2,-0.006513188841274673
+<class 'problems.ANNOP.ANNOP'>,414331728,algorithms.genetic_algorithm,1,0.16216216216216217,0.15767634854771784,50,tournament_selection,one_point_crossover,0.8,ball_mutation,None,None,0.2,-0.00478109004202973
+<class 'problems.ANNOP.ANNOP'>,414331728,algorithms.genetic_algorithm,2,0.1704781704781705,0.15767634854771784,50,tournament_selection,one_point_crossover,0.8,ball_mutation,None,None,0.2,-0.00643678366630977
+<class 'problems.ANNOP.ANNOP'>,414331728,algorithms.genetic_algorithm,3,0.1704781704781705,0.15767634854771784,50,tournament_selection,one_point_crossover,0.8,ball_mutation,None,None,0.2,0.0023979547833767522
+<class 'problems.ANNOP.ANNOP'>,414331728,algorithms.genetic_algorithm,4,0.17463617463617465,0.16182572614107885,50,tournament_selection,one_point_crossover,0.8,ball_mutation,None,None,0.2,-0.0005562166339721951
+<class 'problems.ANNOP.ANNOP'>,414331728,algorithms.genetic_algorithm,0,0.16735966735966737,0.13692946058091288,50,tournament_selection,one_point_crossover,0.8,ball_mutation,None,None,0.4,-0.008182408908027735
+<class 'problems.ANNOP.ANNOP'>,414331728,algorithms.genetic_algorithm,1,0.1891891891891892,0.16182572614107885,50,tournament_selection,one_point_crossover,0.8,ball_mutation,None,None,0.4,-0.0020042775017786747
+<class 'problems.ANNOP.ANNOP'>,414331728,algorithms.genetic_algorithm,2,0.19646569646569648,0.17012448132780084,50,tournament_selection,one_point_crossover,0.8,ball_mutation,None,None,0.4,0.0018189010845487703
+<class 'problems.ANNOP.ANNOP'>,414331728,algorithms.genetic_algorithm,3,0.21205821205821207,0.17842323651452283,50,tournament_selection,one_point_crossover,0.8,ball_mutation,None,None,0.4,0.004365271870419345
+<class 'problems.ANNOP.ANNOP'>,414331728,algorithms.genetic_algorithm,4,0.21205821205821207,0.17842323651452283,50,tournament_selection,one_point_crossover,0.8,ball_mutation,None,None,0.4,-0.00532921481860325
+matplotlib.axes._base,update_title_pos
+matplotlib.font_manager,findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('D:\\NOVA IMS\\MESTRADO\\CIFO Project\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+matplotlib.axes._base,update_title_pos

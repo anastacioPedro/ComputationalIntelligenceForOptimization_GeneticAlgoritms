@@ -1,0 +1,2 @@
+<class 'problems.ANNOP.ANNOP'>,4549885528,algorithms.genetic_algorithm,0,0.15072765072765074,0.14107883817427386,50,tournament_selection,one_point_crossover,0.8,scramble_mutation,None,None,0.4,-0.010816749545502371
+<class 'problems.ANNOP.ANNOP'>,4549885528,algorithms.genetic_algorithm,1,0.15072765072765074,0.14107883817427386,50,tournament_selection,one_point_crossover,0.8,scramble_mutation,None,None,0.4,-0.009502559027989355
